@@ -6,3 +6,4 @@ Si tienes cualquier otra consulta puedes ponerte en contacto con nosotros escrib
 
 ¡Muchas gracias!
 
+![imagen de muestra](https://github.com/lapaput/Encargos/blob/master/LAMPS1.jpeg)
